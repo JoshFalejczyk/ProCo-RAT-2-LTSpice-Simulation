@@ -1,0 +1,17 @@
+Source Material:
+
+Vintage Rat Schematic: https://www.electrosmash.com/images/tech/pro-co-rat/pro-co-rat-schematic-parts.jpg
+-Used as base, however is for the wrong version (Rat and not Rat 2)
+
+Compiled Version Differences Schematic: https://www.aronnelson.com/gallery/main.php/v/diyuser/GGBB/Multi-RAT.png.html
+-Used to convert Rat base to Rat 2
+-LM308 needs 30pF compensation cap, OP07 does not
+-My D1/D2 = Schematic's D3/D2, respectively
+-My C10 = Schematic's C13
+-My R2 = Schematic's R4
+-My R8 = Schematic's R10
+-My R1 = Schematic's R12
+-My R10 = Schematic's R15
+
+Current Build:
+-Negative/Anti-Log Potentiometers were replaced by fixed resistors that were manually scaled from linear to log in value
